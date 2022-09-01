@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65936269906",
+    "project_id": "vinwil-27a92",
+    "storage_bucket": "vinwil-27a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65936269906:android:0482480025012d8be8f58b",
+        "android_client_info": {
+          "package_name": "com.vinwil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65936269906-cq0e80ude4dtb485foro1cgan25u31c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinwil",
+            "certificate_hash": "bdb625733291b96cd1b4e2c90734be42cba30ea2"
+          }
+        },
+        {
+          "client_id": "65936269906-td5ns3ls4joenb2vj8fctsosie85edit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAsbszeM5r1w2j2dlCUyUi8ziLavy4kNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65936269906-td5ns3ls4joenb2vj8fctsosie85edit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
